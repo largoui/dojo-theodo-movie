@@ -8,7 +8,7 @@ export const Header = () => {
       <Link to={`/`} style={{ textDecoration: "none" }}>
         <div className={styles.logo} style={{ color: "white" }}>
           <Clapperboard size={32} />
-          <h2>Cine-Project</h2>
+          <h2>Cine-Catalog</h2>
         </div>
       </Link>
       <Link
